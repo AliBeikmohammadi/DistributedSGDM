@@ -75,10 +75,14 @@ optional arguments:
                         clip_grad_value)
 ```
 > Set --beta 1 in case you need to train DistributedSGD instead of DistributedSGDM.
+> 
 > As a result of running this code; data folder, MNIST_CSV folder , and runs folder will be created.
-> dataset will be downloaded in data folder.
-> You can simultaneously monitor training progress through tensorboard by the files saved in runs folder.
-> Training process will be loged also in a CSV file in MNIST_CSV folder.
+
+* dataset will be downloaded in data folder.
+
+* You can simultaneously monitor training progress through tensorboard by the files saved in runs folder.
+
+* Training process will be loged also in a CSV file in MNIST_CSV folder.
 
 
 ### Training a ResNet-18 on [FashionMNIST dataset](https://github.com/zalandoresearch/fashion-mnist)
@@ -120,13 +124,14 @@ optional arguments:
                         clip_grad_value)
 ```
 > Set --beta 1 in case you need to train DistributedSGD instead of DistributedSGDM.
+> 
 > As a result of running this code; data folder, FashionMNIST_ResNet18_CSV folder , and runs folder will be created.
-> dataset will be downloaded in data folder.
-> You can simultaneously monitor training progress through tensorboard by the files saved in runs folder.
-> Training process will be loged also in a CSV file in FashionMNIST_ResNet18_CSV folder.
+* dataset will be downloaded in data folder.
+* You can simultaneously monitor training progress through tensorboard by the files saved in runs folder.
+* Training process will be loged also in a CSV file in FashionMNIST_ResNet18_CSV folder.
 
 ## How to Aggregate CSV Files and generate Mean and STD over different trials
-> Use `aggregateCSVs .ipynb` to generate a single CSV file containing the mean and standard deviation of 5 runs on each experiment's setup.
+> Use `aggregateCSVs.ipynb` to generate a single CSV file containing the mean and standard deviation of 5 runs on each experiment's setup.
 
 ## How to Plot the Results
 > To draw output figures with the desired features use `PlotResults.ipynb`.
