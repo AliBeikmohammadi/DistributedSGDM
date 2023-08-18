@@ -1,6 +1,6 @@
 # DistributedSGDM
 Implementation of **DistributedSGDM**, as presented in:
-* Distributed Momentum Methods Under Biased Gradients Estimation. Submitted to the Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS 2023), New Orleans Ernest N. Morial Convention Center, USA, Dec 10 – Dec 16, 2023.
+* Distributed Momentum Methods Under Biased Gradients Estimation. Submitted to the IEEE Transactions on Neural Networks and Learning Systems.
 
 
 
@@ -138,7 +138,7 @@ optional arguments:
 
 
 # Citation
-* Submitted to the Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS 2023), New Orleans Ernest N. Morial Convention Center, USA, Dec 10 – Dec 16, 2023.
+* Submitted to the IEEE Transactions on Neural Networks and Learning Systems.
 
 Please cite the accompanied paper, if you find this useful:
 ```
