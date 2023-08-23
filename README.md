@@ -7,19 +7,16 @@ Implementation of **DistributedSGDM**, as presented in:
 Additional learning curves are included here. To be more specific, Figures \ref{fig3} and  \ref{fig4}  contain learning curves for the MNIST dataset using FCNN. Also, for the FashionMNIST dataset, more results are shown in Figures \ref{fig5}, \ref{fig6}, \ref{fig7}, \ref{fig8}, \ref{fig9}, and  \ref{fig10}, utilizing ResNet-18 model. The shaded regions correspond to the standard deviation of the average evaluation over five trials.
 
 * Results on MNIST dataset, considering $n=100$ and $\gamma=0.5$ - FCNN.
-  
+Top-5\% sparsification  
 ![Top-5\% sparsification](MNISTRunPy/MNIST_Plots_Paper_WOT/MNIST_A_512512_penalty_0.0_e_200_N_100_SGDM_lr_0.5_beta_0.1_TopK_33500.png "Title Text")
 
-*
-
+Clipped with $\tau=1$
 ![Clipped with $\tau=1$](MNISTRunPy/MNIST_Plots_Paper_WOT/MNIST_A_512512_penalty_0.0_e_200_N_100_SGDM_lr_0.5_beta_0.1_ClipNorm_1.0.png "Title Text")
 
-*
-
+Top-10\% sparsification
 ![Top-10\% sparsification](MNISTRunPy/MNIST_Plots_Paper_WOT/MNIST_A_512512_penalty_0.0_e_200_N_100_SGDM_lr_0.5_beta_0.1_TopK_67000.png "Title Text")
 
-*
-
+Clipped with $\tau=5$
 ![Clipped with $\tau=5$](MNISTRunPy/MNIST_Plots_Paper_WOT/MNIST_A_512512_penalty_0.0_e_200_N_100_SGDM_lr_0.5_beta_0.1_ClipNorm_5.0.png "Title Text")
 
 
