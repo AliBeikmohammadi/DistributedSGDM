@@ -11,7 +11,7 @@ Additional learning curves are included here. To be more specific, Figures \ref{
   
   * Top-5\% sparsification
     <p>
-    <img src="MNISTRunPy/MNIST_Plots_Paper_WOT/MNIST_A_512512_penalty_0.0_e_200_N_100_SGDM_lr_0.5_beta_0.1_TopK_33500.png" width="220" height="240" />
+    <img src="MNISTRunPy/MNIST_Plots_Paper_WOT/MNIST_A_512512_penalty_0.0_e_200_N_100_SGDM_lr_0.5_beta_0.1_TopK_33500.png" />
     </p>
     
   * Clipped with $\tau=1$
