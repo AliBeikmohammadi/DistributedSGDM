@@ -33,53 +33,46 @@ Additional learning curves are included here. To be more specific, Figures \ref{
 ![Clipped with $\tau=5$](/MNISTRunPy/MNIST_Plots_Paper_WOT/MNIST_A_512512_penalty_0.0_e_200_N_100_SGDM_lr_0.5_beta_0.1_ClipNorm_5.0.png)
 
 
+2. Results on MNIST dataset, considering $n=100$ and $\gamma=0.7$ - FCNN.
+
+  
+  * Top-1\% sparsification
+
+
+![Top-5\% sparsification](/MNISTRunPy/MNIST_Plots_Paper_WOT/MNIST_A_512512_penalty_0.0_e_200_N_100_SGDM_lr_0.7_beta_0.1_TopK_13400.png)
+
+
+  * Clipped with $\tau=1$
+
+  
+![Clipped with $\tau=1$](/MNISTRunPy/MNIST_Plots_Paper_WOT/MNIST_A_512512_penalty_0.0_e_200_N_100_SGDM_lr_0.7_beta_0.1_ClipNorm_1.0.png)
+
+
+  * Top-5\% sparsification
+ 
+
+![Top-10\% sparsification](/MNISTRunPy/MNIST_Plots_Paper_WOT/MNIST_A_512512_penalty_0.0_e_200_N_100_SGDM_lr_0.7_beta_0.1_TopK_33500.png)
+
+
+  * Clipped with $\tau=2$
+ 
+
+![Clipped with $\tau=5$](/MNISTRunPy/MNIST_Plots_Paper_WOT/MNIST_A_512512_penalty_0.0_e_200_N_100_SGDM_lr_0.7_beta_0.1_ClipNorm_2.0.png)
+
+
+  * Top-10\% sparsification
+ 
+
+![Top-10\% sparsification](/MNISTRunPy/MNIST_Plots_Paper_WOT/MNIST_A_512512_penalty_0.0_e_200_N_100_SGDM_lr_0.7_beta_0.1_TopK_67000.png)
+
+
+  * Clipped with $\tau=5$
+ 
+
+![Clipped with $\tau=5$](/MNISTRunPy/MNIST_Plots_Paper_WOT/MNIST_A_512512_penalty_0.0_e_200_N_100_SGDM_lr_0.7_beta_0.1_ClipNorm_5.0.png)
 
  
-\begin{figure*}[ht] %[h]
-     \centering
-     \subfloat[Top-5\% sparsification]{
-         \includegraphics[width=0.49\linewidth]{MNIST_WOT/MNIST_A_512512_penalty_0.0_e_200_N_100_SGDM_lr_0.5_beta_0.1_TopK_33500.png}
-         \label{fig3a}}
-     \subfloat[Clipped with $\tau=1$]{
-         \includegraphics[width=0.49\linewidth]{MNIST_WOT/MNIST_A_512512_penalty_0.0_e_200_N_100_SGDM_lr_0.5_beta_0.1_ClipNorm_1.0.png}
-         \label{fig3b}}
-     \hfill   
-     \subfloat[Top-10\% sparsification]{
-        \includegraphics[width=0.49\linewidth]{MNIST_WOT/MNIST_A_512512_penalty_0.0_e_200_N_100_SGDM_lr_0.5_beta_0.1_TopK_67000.png}
-         \label{fig3c}}
-     \subfloat[Clipped with $\tau=5$]{
-         \includegraphics[width=0.49\linewidth]{MNIST_WOT/MNIST_A_512512_penalty_0.0_e_200_N_100_SGDM_lr_0.5_beta_0.1_ClipNorm_5.0.png}
-         \label{fig3d}}
-        \caption{Results on MNIST dataset, considering $n=100$ and $\gamma=0.5$ - FCNN. }
-        \label{fig3}
-\end{figure*}
-
-\begin{figure*}[ht] %[h]
-     \centering
-     \subfloat[Top-1\% sparsification]{
-         \includegraphics[width=0.49\linewidth]{MNIST_WOT/MNIST_A_512512_penalty_0.0_e_200_N_100_SGDM_lr_0.7_beta_0.1_TopK_13400.png}
-         \label{fig4a}}
-     \subfloat[Clipped with $\tau=1$]{
-         \includegraphics[width=0.49\linewidth]{MNIST_WOT/MNIST_A_512512_penalty_0.0_e_200_N_100_SGDM_lr_0.7_beta_0.1_ClipNorm_1.0.png}
-         \label{fig4b}}
-     \hfill   
-     \subfloat[Top-5\% sparsification]{
-        \includegraphics[width=0.49\linewidth]{MNIST_WOT/MNIST_A_512512_penalty_0.0_e_200_N_100_SGDM_lr_0.7_beta_0.1_TopK_33500.png}
-         \label{fig4c}}
-     \subfloat[Clipped with $\tau=2$]{
-         \includegraphics[width=0.49\linewidth]{MNIST_WOT/MNIST_A_512512_penalty_0.0_e_200_N_100_SGDM_lr_0.7_beta_0.1_ClipNorm_2.0.png}
-         \label{fig4d}}
-    \hfill   
-     \subfloat[Top-10\% sparsification]{
-        \includegraphics[width=0.49\linewidth]{MNIST_WOT/MNIST_A_512512_penalty_0.0_e_200_N_100_SGDM_lr_0.7_beta_0.1_TopK_67000.png}
-         \label{fig4e}}
-     \subfloat[Clipped with $\tau=5$]{
-         \includegraphics[width=0.49\linewidth]{MNIST_WOT/MNIST_A_512512_penalty_0.0_e_200_N_100_SGDM_lr_0.7_beta_0.1_ClipNorm_5.0.png}
-         \label{fig4f}}
-        \caption{Results on MNIST dataset, considering $n=100$ and $\gamma=0.7$ - FCNN.}
-        \label{fig4}
-\end{figure*}
-
+ 
 
 \begin{figure*}[ht] %[h]
      \centering
