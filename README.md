@@ -24,13 +24,13 @@ Additional learning curves are included here. To be more specific, Figures 1 and
   * Top-10\% sparsification
  
 
-![Top-10\% sparsification](/MNISTRunPy/MNIST_Plots_Paper_WOT/MNIST_A_512512_penalty_0.0_e_200_N_100_SGDM_lr_0.5_beta_0.1_TopK_67000.png)
+![Top-10\% sparsification](https://github.com/AliBeikmohammadi/DistributedSGDM/blob/main/MNISTRunPy/MNIST_Plots_Paper_WOT/MNIST_A_512512_penalty_0.0_e_200_N_100_SGDM_lr_0.5_beta_0.1_TopK_67000.png)
 
 
   * Clipped with $\tau=5$
  
 
-![Clipped with $\tau=5$](/MNISTRunPy/MNIST_Plots_Paper_WOT/MNIST_A_512512_penalty_0.0_e_200_N_100_SGDM_lr_0.5_beta_0.1_ClipNorm_5.0.png)
+![Clipped with $\tau=5$](https://github.com/AliBeikmohammadi/DistributedSGDM/blob/main/MNISTRunPy/MNIST_Plots_Paper_WOT/MNIST_A_512512_penalty_0.0_e_200_N_100_SGDM_lr_0.5_beta_0.1_ClipNorm_5.0.png)
 
 
 2. (Figure 2) Results on MNIST dataset, considering $n=100$ and $\gamma=0.7$ - FCNN.
@@ -39,37 +39,37 @@ Additional learning curves are included here. To be more specific, Figures 1 and
   * Top-1\% sparsification
 
 
-![Top-5\% sparsification](/MNISTRunPy/MNIST_Plots_Paper_WOT/MNIST_A_512512_penalty_0.0_e_200_N_100_SGDM_lr_0.7_beta_0.1_TopK_13400.png)
+![Top-5\% sparsification](https://github.com/AliBeikmohammadi/DistributedSGDM/blob/main/MNISTRunPy/MNIST_Plots_Paper_WOT/MNIST_A_512512_penalty_0.0_e_200_N_100_SGDM_lr_0.7_beta_0.1_TopK_13400.png)
 
 
   * Clipped with $\tau=1$
 
   
-![Clipped with $\tau=1$](/MNISTRunPy/MNIST_Plots_Paper_WOT/MNIST_A_512512_penalty_0.0_e_200_N_100_SGDM_lr_0.7_beta_0.1_ClipNorm_1.0.png)
+![Clipped with $\tau=1$](https://github.com/AliBeikmohammadi/DistributedSGDM/blob/main/MNISTRunPy/MNIST_Plots_Paper_WOT/MNIST_A_512512_penalty_0.0_e_200_N_100_SGDM_lr_0.7_beta_0.1_ClipNorm_1.0.png)
 
 
   * Top-5\% sparsification
  
 
-![Top-10\% sparsification](/MNISTRunPy/MNIST_Plots_Paper_WOT/MNIST_A_512512_penalty_0.0_e_200_N_100_SGDM_lr_0.7_beta_0.1_TopK_33500.png)
+![Top-10\% sparsification](https://github.com/AliBeikmohammadi/DistributedSGDM/blob/main/MNISTRunPy/MNIST_Plots_Paper_WOT/MNIST_A_512512_penalty_0.0_e_200_N_100_SGDM_lr_0.7_beta_0.1_TopK_33500.png)
 
 
   * Clipped with $\tau=2$
  
 
-![Clipped with $\tau=5$](/MNISTRunPy/MNIST_Plots_Paper_WOT/MNIST_A_512512_penalty_0.0_e_200_N_100_SGDM_lr_0.7_beta_0.1_ClipNorm_2.0.png)
+![Clipped with $\tau=5$](https://github.com/AliBeikmohammadi/DistributedSGDM/blob/main/MNISTRunPy/MNIST_Plots_Paper_WOT/MNIST_A_512512_penalty_0.0_e_200_N_100_SGDM_lr_0.7_beta_0.1_ClipNorm_2.0.png)
 
 
   * Top-10\% sparsification
  
 
-![Top-10\% sparsification](/MNISTRunPy/MNIST_Plots_Paper_WOT/MNIST_A_512512_penalty_0.0_e_200_N_100_SGDM_lr_0.7_beta_0.1_TopK_67000.png)
+![Top-10\% sparsification](https://github.com/AliBeikmohammadi/DistributedSGDM/blob/main/MNISTRunPy/MNIST_Plots_Paper_WOT/MNIST_A_512512_penalty_0.0_e_200_N_100_SGDM_lr_0.7_beta_0.1_TopK_67000.png)
 
 
   * Clipped with $\tau=5$
  
 
-![Clipped with $\tau=5$](/MNISTRunPy/MNIST_Plots_Paper_WOT/MNIST_A_512512_penalty_0.0_e_200_N_100_SGDM_lr_0.7_beta_0.1_ClipNorm_5.0.png)
+![Clipped with $\tau=5$](https://github.com/AliBeikmohammadi/DistributedSGDM/blob/main/MNISTRunPy/MNIST_Plots_Paper_WOT/MNIST_A_512512_penalty_0.0_e_200_N_100_SGDM_lr_0.7_beta_0.1_ClipNorm_5.0.png)
 
  
  3. (Figure 3) Results on FashionMNIST dataset, considering $n=100$ and $\gamma=0.3$ - ResNet-18.
@@ -78,37 +78,37 @@ Additional learning curves are included here. To be more specific, Figures 1 and
   * Top-0.1\% sparsification
 
 
-![Top-5\% sparsification](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.3_beta_0.1_TopK_11181.png)
+![Top-5\% sparsification](https://github.com/AliBeikmohammadi/DistributedSGDM/blob/main/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.3_beta_0.1_TopK_11181.png)
 
 
   * Clipped with $\tau=1$
 
   
-![Clipped with $\tau=1$](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.3_beta_0.1_ClipNorm_1.0.png)
+![Clipped with $\tau=1$](https://github.com/AliBeikmohammadi/DistributedSGDM/blob/main/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.3_beta_0.1_ClipNorm_1.0.png)
 
 
   * Top-1\% sparsification
  
 
-![Top-10\% sparsification](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.3_beta_0.1_TopK_111816.png)
+![Top-10\% sparsification](https://github.com/AliBeikmohammadi/DistributedSGDM/blob/main/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.3_beta_0.1_TopK_111816.png)
 
 
   * Clipped with $\tau=2$
  
 
-![Clipped with $\tau=5$](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.3_beta_0.1_ClipNorm_2.0.png)
+![Clipped with $\tau=5$](https://github.com/AliBeikmohammadi/DistributedSGDM/blob/main/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.3_beta_0.1_ClipNorm_2.0.png)
 
 
   * Top-10\% sparsification
  
 
-![Top-10\% sparsification](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.3_beta_0.1_TopK_1118164.png)
+![Top-10\% sparsification](https://github.com/AliBeikmohammadi/DistributedSGDM/blob/main/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.3_beta_0.1_TopK_1118164.png)
 
 
   * Clipped with $\tau=5$
  
 
-![Clipped with $\tau=5$](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.3_beta_0.1_ClipNorm_5.0.png)
+![Clipped with $\tau=5$](https://github.com/AliBeikmohammadi/DistributedSGDM/blob/main/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.3_beta_0.1_ClipNorm_5.0.png)
 
 
  4. (Figure 4) Results on FashionMNIST dataset, considering $n=100$ and $\gamma=0.3$ - ResNet-18.
@@ -117,37 +117,37 @@ Additional learning curves are included here. To be more specific, Figures 1 and
   * Top-0.1\% sparsification
 
 
-![Top-5\% sparsification](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.3_beta_0.3_TopK_11181.png)
+![Top-5\% sparsification](https://github.com/AliBeikmohammadi/DistributedSGDM/blob/main/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.3_beta_0.3_TopK_11181.png)
 
 
   * Clipped with $\tau=1$
 
   
-![Clipped with $\tau=1$](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.3_beta_0.3_ClipNorm_1.0.png)
+![Clipped with $\tau=1$](https://github.com/AliBeikmohammadi/DistributedSGDM/blob/main/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.3_beta_0.3_ClipNorm_1.0.png)
 
 
   * Top-1\% sparsification
  
 
-![Top-10\% sparsification](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.3_beta_0.3_TopK_111816.png)
+![Top-10\% sparsification](https://github.com/AliBeikmohammadi/DistributedSGDM/blob/main/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.3_beta_0.3_TopK_111816.png)
 
 
   * Clipped with $\tau=2$
  
 
-![Clipped with $\tau=5$](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.3_beta_0.3_ClipNorm_2.0.png)
+![Clipped with $\tau=5$](https://github.com/AliBeikmohammadi/DistributedSGDM/blob/main/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.3_beta_0.3_ClipNorm_2.0.png)
 
 
   * Top-10\% sparsification
  
 
-![Top-10\% sparsification](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.3_beta_0.3_TopK_1118164.png)
+![Top-10\% sparsification](https://github.com/AliBeikmohammadi/DistributedSGDM/blob/main/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.3_beta_0.3_TopK_1118164.png)
 
 
   * Clipped with $\tau=5$
  
 
-![Clipped with $\tau=5$](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.3_beta_0.3_ClipNorm_5.0.png)
+![Clipped with $\tau=5$](https://github.com/AliBeikmohammadi/DistributedSGDM/blob/main/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.3_beta_0.3_ClipNorm_5.0.png)
 
 
  5. (Figure 5) Results on FashionMNIST dataset, considering $n=100$ and $\gamma=0.5$ - ResNet-18.
@@ -156,25 +156,25 @@ Additional learning curves are included here. To be more specific, Figures 1 and
   * Top-1\% sparsification
  
 
-![Top-10\% sparsification](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.5_beta_0.1_TopK_111816.png)
+![Top-10\% sparsification](https://github.com/AliBeikmohammadi/DistributedSGDM/blob/main/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.5_beta_0.1_TopK_111816.png)
 
 
   * Clipped with $\tau=1$
 
   
-![Clipped with $\tau=1$](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.5_beta_0.1_ClipNorm_1.0.png)
+![Clipped with $\tau=1$](https://github.com/AliBeikmohammadi/DistributedSGDM/blob/main/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.5_beta_0.1_ClipNorm_1.0.png)
 
 
   * Top-10\% sparsification
  
 
-![Top-10\% sparsification](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.5_beta_0.1_TopK_1118164.png)
+![Top-10\% sparsification](https://github.com/AliBeikmohammadi/DistributedSGDM/blob/main/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.5_beta_0.1_TopK_1118164.png)
 
 
   * Clipped with $\tau=5$
  
 
-![Clipped with $\tau=5$](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.5_beta_0.1_ClipNorm_5.0.png)
+![Clipped with $\tau=5$](https://github.com/AliBeikmohammadi/DistributedSGDM/blob/main/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.5_beta_0.1_ClipNorm_5.0.png)
 
 
  6. (Figure 6) Results on FashionMNIST dataset, considering $n=100$ and $\gamma=0.5$ - ResNet-18.
@@ -183,37 +183,37 @@ Additional learning curves are included here. To be more specific, Figures 1 and
   * Top-0.1\% sparsification
 
 
-![Top-5\% sparsification](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.5_beta_0.3_TopK_11181.png)
+![Top-5\% sparsification](https://github.com/AliBeikmohammadi/DistributedSGDM/blob/main/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.5_beta_0.3_TopK_11181.png)
 
 
   * Clipped with $\tau=1$
 
   
-![Clipped with $\tau=1$](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.5_beta_0.3_ClipNorm_1.0.png)
+![Clipped with $\tau=1$](https://github.com/AliBeikmohammadi/DistributedSGDM/blob/main/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.5_beta_0.3_ClipNorm_1.0.png)
 
 
   * Top-1\% sparsification
  
 
-![Top-10\% sparsification](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.5_beta_0.3_TopK_111816.png)
+![Top-10\% sparsification](https://github.com/AliBeikmohammadi/DistributedSGDM/blob/main/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.5_beta_0.3_TopK_111816.png)
 
 
   * Clipped with $\tau=2$
  
 
-![Clipped with $\tau=5$](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.5_beta_0.3_ClipNorm_2.0.png)
+![Clipped with $\tau=5$](https://github.com/AliBeikmohammadi/DistributedSGDM/blob/main/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.5_beta_0.3_ClipNorm_2.0.png)
 
 
   * Top-10\% sparsification
  
 
-![Top-10\% sparsification](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.5_beta_0.3_TopK_1118164.png)
+![Top-10\% sparsification](https://github.com/AliBeikmohammadi/DistributedSGDM/blob/main/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.5_beta_0.3_TopK_1118164.png)
 
 
   * Clipped with $\tau=5$
  
 
-![Clipped with $\tau=5$](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.5_beta_0.3_ClipNorm_5.0.png)
+![Clipped with $\tau=5$](https://github.com/AliBeikmohammadi/DistributedSGDM/blob/main/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.5_beta_0.3_ClipNorm_5.0.png)
 
 
  7. (Figure 7) Results on FashionMNIST dataset, considering $n=100$ and $\gamma=0.7$ - ResNet-18.
@@ -222,37 +222,37 @@ Additional learning curves are included here. To be more specific, Figures 1 and
   * Top-0.1\% sparsification
 
 
-![Top-5\% sparsification](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.7_beta_0.1_TopK_11181.png)
+![Top-5\% sparsification](https://github.com/AliBeikmohammadi/DistributedSGDM/blob/main/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.7_beta_0.1_TopK_11181.png)
 
 
   * Clipped with $\tau=1$
 
   
-![Clipped with $\tau=1$](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.7_beta_0.1_ClipNorm_1.0.png)
+![Clipped with $\tau=1$](https://github.com/AliBeikmohammadi/DistributedSGDM/blob/main/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.7_beta_0.1_ClipNorm_1.0.png)
 
 
   * Top-1\% sparsification
  
 
-![Top-10\% sparsification](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.7_beta_0.1_TopK_111816.png)
+![Top-10\% sparsification](https://github.com/AliBeikmohammadi/DistributedSGDM/blob/main/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.7_beta_0.1_TopK_111816.png)
 
 
   * Clipped with $\tau=2$
  
 
-![Clipped with $\tau=5$](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.7_beta_0.1_ClipNorm_2.0.png)
+![Clipped with $\tau=5$](https://github.com/AliBeikmohammadi/DistributedSGDM/blob/main/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.7_beta_0.1_ClipNorm_2.0.png)
 
 
   * Top-10\% sparsification
  
 
-![Top-10\% sparsification](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.7_beta_0.1_TopK_1118164.png)
+![Top-10\% sparsification](https://github.com/AliBeikmohammadi/DistributedSGDM/blob/main/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.7_beta_0.1_TopK_1118164.png)
 
 
   * Clipped with $\tau=5$
  
 
-![Clipped with $\tau=5$](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.7_beta_0.1_ClipNorm_5.0.png)
+![Clipped with $\tau=5$](https://github.com/AliBeikmohammadi/DistributedSGDM/blob/main/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.7_beta_0.1_ClipNorm_5.0.png)
 
 
  8. (Figure 8) Results on FashionMNIST dataset, considering $n=100$ and $\gamma=0.7$ - ResNet-18.
@@ -261,37 +261,37 @@ Additional learning curves are included here. To be more specific, Figures 1 and
   * Top-0.1\% sparsification
 
 
-![Top-5\% sparsification](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.7_beta_0.3_TopK_11181.png)
+![Top-5\% sparsification](https://github.com/AliBeikmohammadi/DistributedSGDM/blob/main/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.7_beta_0.3_TopK_11181.png)
 
 
   * Clipped with $\tau=1$
 
   
-![Clipped with $\tau=1$](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.7_beta_0.3_ClipNorm_1.0.png)
+![Clipped with $\tau=1$](https://github.com/AliBeikmohammadi/DistributedSGDM/blob/main/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.7_beta_0.3_ClipNorm_1.0.png)
 
 
   * Top-1\% sparsification
  
 
-![Top-10\% sparsification](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.7_beta_0.3_TopK_111816.png)
+![Top-10\% sparsification](https://github.com/AliBeikmohammadi/DistributedSGDM/blob/main/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.7_beta_0.3_TopK_111816.png)
 
 
   * Clipped with $\tau=2$
  
 
-![Clipped with $\tau=5$](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.7_beta_0.3_ClipNorm_2.0.png)
+![Clipped with $\tau=5$](https://github.com/AliBeikmohammadi/DistributedSGDM/blob/main/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.7_beta_0.3_ClipNorm_2.0.png)
 
 
   * Top-10\% sparsification
  
 
-![Top-10\% sparsification](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.7_beta_0.3_TopK_1118164.png)
+![Top-10\% sparsification](https://github.com/AliBeikmohammadi/DistributedSGDM/blob/main/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.7_beta_0.3_TopK_1118164.png)
 
 
   * Clipped with $\tau=5$
  
 
-![Clipped with $\tau=5$](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.7_beta_0.3_ClipNorm_5.0.png)
+![Clipped with $\tau=5$](https://github.com/AliBeikmohammadi/DistributedSGDM/blob/main/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.7_beta_0.3_ClipNorm_5.0.png)
 
 
 # Importing
