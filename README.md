@@ -26,7 +26,7 @@ Additional learning curves are included here. To be more specific, Figures \ref{
     ![Clipped with $\tau=5$](/MNISTRunPy/MNIST_Plots_Paper_WOT/MNIST_A_512512_penalty_0.0_e_200_N_100_SGDM_lr_0.5_beta_0.1_ClipNorm_5.0.png)
 
 
-
+ ![Top-5\% sparsification](/MNISTRunPy/MNIST_Plots_Paper_WOT/MNIST_A_512512_penalty_0.0_e_200_N_100_SGDM_lr_0.5_beta_0.1_TopK_33500.png)
 \begin{figure*}[ht] %[h]
      \centering
      \subfloat[Top-5\% sparsification]{
