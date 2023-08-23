@@ -111,137 +111,188 @@ Additional learning curves are included here. To be more specific, Figures \ref{
 ![Clipped with $\tau=5$](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.3_beta_0.1_ClipNorm_5.0.png)
 
 
+ 4. Results on FashionMNIST dataset, considering $n=100$ and $\gamma=0.3$ - ResNet-18.
 
-\begin{figure*}[ht] %[h]
-     \centering
-     \subfloat[Top-0.1\% sparsification]{
-         \includegraphics[width=0.49\linewidth]{FMNIST_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.3_beta_0.3_TopK_11181.png}
-         \label{fig6a}}
-     \subfloat[Clipped with $\tau=1$]{
-         \includegraphics[width=0.49\linewidth]{FMNIST_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.3_beta_0.3_ClipNorm_1.0.png}
-         \label{fig6b}}
-     \hfill   
-     \subfloat[Top-1\% sparsification]{
-        \includegraphics[width=0.49\linewidth]{FMNIST_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.3_beta_0.3_TopK_111816.png}
-         \label{fig6c}}
-     \subfloat[Clipped with $\tau=2$]{
-         \includegraphics[width=0.49\linewidth]{FMNIST_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.3_beta_0.3_ClipNorm_2.0.png}
-         \label{fig6d}}
-    \hfill   
-     \subfloat[Top-10\% sparsification]{
-        \includegraphics[width=0.49\linewidth]{FMNIST_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.3_beta_0.3_TopK_1118164.png}
-         \label{fig6e}}
-     \subfloat[Clipped with $\tau=5$]{
-         \includegraphics[width=0.49\linewidth]{FMNIST_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.3_beta_0.3_ClipNorm_5.0.png}
-         \label{fig6f}}
-        \caption{Results on FashionMNIST dataset, considering $n=100$ and $\gamma=0.3$ - ResNet-18.}
-        \label{fig6}
-\end{figure*}
+  
+  * Top-0.1\% sparsification
 
 
-\begin{figure*}[ht] %[h]
-     \centering
-     \subfloat[Top-1\% sparsification]{
-         \includegraphics[width=0.49\linewidth]{FMNIST_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.5_beta_0.1_TopK_111816.png}
-         \label{fig7a}}
-     \subfloat[Clipped with $\tau=1$]{
-         \includegraphics[width=0.49\linewidth]{FMNIST_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.5_beta_0.1_ClipNorm_1.0.png}
-         \label{fig7b}}
-     \hfill   
-     \subfloat[Top-10\% sparsification]{
-        \includegraphics[width=0.49\linewidth]{FMNIST_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.5_beta_0.1_TopK_1118164.png}
-         \label{fig7c}}
-     \subfloat[Clipped with $\tau=5$]{
-         \includegraphics[width=0.49\linewidth]{FMNIST_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.5_beta_0.1_ClipNorm_5.0.png}
-         \label{fig7d}}
-        \caption{Results on FashionMNIST dataset, considering $n=100$ and $\gamma=0.5$ - ResNet-18.}
-        \label{fig7}
-\end{figure*}
+![Top-5\% sparsification](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.3_beta_0.3_TopK_11181.png)
 
 
-\begin{figure*}[ht] %[h]
-     \centering
-     \subfloat[Top-0.1\% sparsification]{
-         \includegraphics[width=0.49\linewidth]{FMNIST_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.5_beta_0.3_TopK_11181.png}
-         \label{fig8a}}
-     \subfloat[Clipped with $\tau=1$]{
-         \includegraphics[width=0.49\linewidth]{FMNIST_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.5_beta_0.3_ClipNorm_1.0.png}
-         \label{fig8b}}
-     \hfill   
-     \subfloat[Top-1\% sparsification]{
-        \includegraphics[width=0.49\linewidth]{FMNIST_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.5_beta_0.3_TopK_111816.png}
-         \label{fig8c}}
-     \subfloat[Clipped with $\tau=2$]{
-         \includegraphics[width=0.49\linewidth]{FMNIST_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.5_beta_0.3_ClipNorm_2.0.png}
-         \label{fig8d}}
-    \hfill   
-     \subfloat[Top-10\% sparsification]{
-        \includegraphics[width=0.49\linewidth]{FMNIST_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.5_beta_0.3_TopK_1118164.png}
-         \label{fig8e}}
-     \subfloat[Clipped with $\tau=5$]{
-         \includegraphics[width=0.49\linewidth]{FMNIST_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.5_beta_0.3_ClipNorm_5.0.png}
-         \label{fig8f}}
-        \caption{Results on FashionMNIST dataset, considering $n=100$ and $\gamma=0.5$ - ResNet-18.}
-        \label{fig8}
-\end{figure*}
+  * Clipped with $\tau=1$
 
-\begin{figure*}[ht] %[h]
-     \centering
-     \subfloat[Top-0.1\% sparsification]{
-         \includegraphics[width=0.49\linewidth]{FMNIST_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.7_beta_0.1_TopK_11181.png}
-         \label{fig9a}}
-     \subfloat[Clipped with $\tau=1$]{
-         \includegraphics[width=0.49\linewidth]{FMNIST_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.7_beta_0.1_ClipNorm_1.0.png}
-         \label{fig9b}}
-     \hfill   
-     \subfloat[Top-1\% sparsification]{
-        \includegraphics[width=0.49\linewidth]{FMNIST_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.7_beta_0.1_TopK_111816.png}
-         \label{fig9c}}
-     \subfloat[Clipped with $\tau=2$]{
-         \includegraphics[width=0.49\linewidth]{FMNIST_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.7_beta_0.1_ClipNorm_2.0.png}
-         \label{fig9d}}
-    \hfill   
-     \subfloat[Top-10\% sparsification]{
-        \includegraphics[width=0.49\linewidth]{FMNIST_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.7_beta_0.1_TopK_1118164.png}
-         \label{fig9e}}
-     \subfloat[Clipped with $\tau=5$]{
-         \includegraphics[width=0.49\linewidth]{FMNIST_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.7_beta_0.1_ClipNorm_5.0.png}
-         \label{fig9f}}
-        \caption{Results on FashionMNIST dataset, considering $n=100$ and $\gamma=0.7$ - ResNet-18.}
-        \label{fig9}
-\end{figure*}
-
-\begin{figure*}[ht] %[h]
-     \centering
-     \subfloat[Top-0.1\% sparsification]{
-         \includegraphics[width=0.49\linewidth]{FMNIST_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.7_beta_0.3_TopK_11181.png}
-         \label{fig10a}}
-     \subfloat[Clipped with $\tau=1$]{
-         \includegraphics[width=0.49\linewidth]{FMNIST_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.7_beta_0.3_ClipNorm_1.0.png}
-         \label{fig10b}}
-     \hfill   
-     \subfloat[Top-1\% sparsification]{
-        \includegraphics[width=0.49\linewidth]{FMNIST_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.7_beta_0.3_TopK_111816.png}
-         \label{fig10c}}
-     \subfloat[Clipped with $\tau=2$]{
-         \includegraphics[width=0.49\linewidth]{FMNIST_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.7_beta_0.3_ClipNorm_2.0.png}
-         \label{fig10d}}
-    \hfill   
-     \subfloat[Top-10\% sparsification]{
-        \includegraphics[width=0.49\linewidth]{FMNIST_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.7_beta_0.3_TopK_1118164.png}
-         \label{fig10e}}
-     \subfloat[Clipped with $\tau=5$]{
-         \includegraphics[width=0.49\linewidth]{FMNIST_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.7_beta_0.3_ClipNorm_5.0.png}
-         \label{fig10f}}
-        \caption{Results on FashionMNIST dataset, considering $n=100$ and $\gamma=0.7$ - ResNet-18.}
-        \label{fig10}
-\end{figure*}
+  
+![Clipped with $\tau=1$](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.3_beta_0.3_ClipNorm_1.0.png)
 
 
+  * Top-1\% sparsification
+ 
 
-<p align="center">
-    <img src="PettingZoo_Text.png" width="500px"/>
-</p>
+![Top-10\% sparsification](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.3_beta_0.3_TopK_111816.png)
+
+
+  * Clipped with $\tau=2$
+ 
+
+![Clipped with $\tau=5$](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.3_beta_0.3_ClipNorm_2.0.png)
+
+
+  * Top-10\% sparsification
+ 
+
+![Top-10\% sparsification](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.3_beta_0.3_TopK_1118164.png)
+
+
+  * Clipped with $\tau=5$
+ 
+
+![Clipped with $\tau=5$](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.3_beta_0.3_ClipNorm_5.0.png)
+
+
+ 5. Results on FashionMNIST dataset, considering $n=100$ and $\gamma=0.5$ - ResNet-18.
+
+
+  * Top-1\% sparsification
+ 
+
+![Top-10\% sparsification](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.5_beta_0.1_TopK_111816.png)
+
+
+  * Clipped with $\tau=1$
+
+  
+![Clipped with $\tau=1$](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.5_beta_0.1_ClipNorm_1.0.png)
+
+
+  * Top-10\% sparsification
+ 
+
+![Top-10\% sparsification](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.5_beta_0.1_TopK_1118164.png)
+
+
+  * Clipped with $\tau=5$
+ 
+
+![Clipped with $\tau=5$](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.5_beta_0.1_ClipNorm_5.0.png)
+
+
+ 6. Results on FashionMNIST dataset, considering $n=100$ and $\gamma=0.5$ - ResNet-18.
+
+  
+  * Top-0.1\% sparsification
+
+
+![Top-5\% sparsification](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.5_beta_0.3_TopK_11181.png)
+
+
+  * Clipped with $\tau=1$
+
+  
+![Clipped with $\tau=1$](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.5_beta_0.3_ClipNorm_1.0.png)
+
+
+  * Top-1\% sparsification
+ 
+
+![Top-10\% sparsification](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.5_beta_0.3_TopK_111816.png)
+
+
+  * Clipped with $\tau=2$
+ 
+
+![Clipped with $\tau=5$](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.5_beta_0.3_ClipNorm_2.0.png)
+
+
+  * Top-10\% sparsification
+ 
+
+![Top-10\% sparsification](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.5_beta_0.3_TopK_1118164.png)
+
+
+  * Clipped with $\tau=5$
+ 
+
+![Clipped with $\tau=5$](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.5_beta_0.3_ClipNorm_5.0.png)
+
+
+ 7. Results on FashionMNIST dataset, considering $n=100$ and $\gamma=0.7$ - ResNet-18.
+
+  
+  * Top-0.1\% sparsification
+
+
+![Top-5\% sparsification](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.7_beta_0.1_TopK_11181.png)
+
+
+  * Clipped with $\tau=1$
+
+  
+![Clipped with $\tau=1$](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.7_beta_0.1_ClipNorm_1.0.png)
+
+
+  * Top-1\% sparsification
+ 
+
+![Top-10\% sparsification](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.7_beta_0.1_TopK_111816.png)
+
+
+  * Clipped with $\tau=2$
+ 
+
+![Clipped with $\tau=5$](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.7_beta_0.1_ClipNorm_2.0.png)
+
+
+  * Top-10\% sparsification
+ 
+
+![Top-10\% sparsification](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.7_beta_0.1_TopK_1118164.png)
+
+
+  * Clipped with $\tau=5$
+ 
+
+![Clipped with $\tau=5$](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.7_beta_0.1_ClipNorm_5.0.png)
+
+
+ 8. Results on FashionMNIST dataset, considering $n=100$ and $\gamma=0.7$ - ResNet-18.
+
+  
+  * Top-0.1\% sparsification
+
+
+![Top-5\% sparsification](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.7_beta_0.3_TopK_11181.png)
+
+
+  * Clipped with $\tau=1$
+
+  
+![Clipped with $\tau=1$](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.7_beta_0.3_ClipNorm_1.0.png)
+
+
+  * Top-1\% sparsification
+ 
+
+![Top-10\% sparsification](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.7_beta_0.3_TopK_111816.png)
+
+
+  * Clipped with $\tau=2$
+ 
+
+![Clipped with $\tau=5$](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.7_beta_0.3_ClipNorm_2.0.png)
+
+
+  * Top-10\% sparsification
+ 
+
+![Top-10\% sparsification](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.7_beta_0.3_TopK_1118164.png)
+
+
+  * Clipped with $\tau=5$
+ 
+
+![Clipped with $\tau=5$](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.7_beta_0.3_ClipNorm_5.0.png)
+
 
 # Importing
 
