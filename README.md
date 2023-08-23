@@ -18,7 +18,7 @@ Additional learning curves are included here. To be more specific, Figures 1 and
   * Clipped with $\tau=1$
 
   
-![Clipped with $\tau=1$](/MNISTRunPy/MNIST_Plots_Paper_WOT/MNIST_A_512512_penalty_0.0_e_200_N_100_SGDM_lr_0.5_beta_0.1_ClipNorm_1.0.png)
+![Clipped with $\tau=1$](https://github.com/AliBeikmohammadi/DistributedSGDM/blob/main/MNISTRunPy/MNIST_Plots_Paper_WOT/MNIST_A_512512_penalty_0.0_e_200_N_100_SGDM_lr_0.5_beta_0.1_ClipNorm_1.0.png)
 
 
   * Top-10\% sparsification
