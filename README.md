@@ -4,9 +4,9 @@ Implementation of **DistributedSGDM**, as presented in:
 
 
 # Additional Numerical Evaluations on Deep Neural Networks
-Additional learning curves are included here. To be more specific, Figures \ref{fig3} and  \ref{fig4}  contain learning curves for the MNIST dataset using FCNN. Also, for the FashionMNIST dataset, more results are shown in Figures \ref{fig5}, \ref{fig6}, \ref{fig7}, \ref{fig8}, \ref{fig9}, and  \ref{fig10}, utilizing ResNet-18 model. The shaded regions correspond to the standard deviation of the average evaluation over five trials.
+Additional learning curves are included here. To be more specific, Figures 1 and  2  contain learning curves for the MNIST dataset using FCNN. Also, for the FashionMNIST dataset, more results are shown in Figures 3, 4, 5, 6, 7, and  8, utilizing ResNet-18 model. The shaded regions correspond to the standard deviation of the average evaluation over five trials.
 
-1. Results on MNIST dataset, considering $n=100$ and $\gamma=0.5$ - FCNN.
+1. (Figure 1) Results on MNIST dataset, considering $n=100$ and $\gamma=0.5$ - FCNN.
 
   
   * Top-5\% sparsification
@@ -33,7 +33,7 @@ Additional learning curves are included here. To be more specific, Figures \ref{
 ![Clipped with $\tau=5$](/MNISTRunPy/MNIST_Plots_Paper_WOT/MNIST_A_512512_penalty_0.0_e_200_N_100_SGDM_lr_0.5_beta_0.1_ClipNorm_5.0.png)
 
 
-2. Results on MNIST dataset, considering $n=100$ and $\gamma=0.7$ - FCNN.
+2. (Figure 2) Results on MNIST dataset, considering $n=100$ and $\gamma=0.7$ - FCNN.
 
   
   * Top-1\% sparsification
@@ -72,7 +72,7 @@ Additional learning curves are included here. To be more specific, Figures \ref{
 ![Clipped with $\tau=5$](/MNISTRunPy/MNIST_Plots_Paper_WOT/MNIST_A_512512_penalty_0.0_e_200_N_100_SGDM_lr_0.7_beta_0.1_ClipNorm_5.0.png)
 
  
- 3. Results on FashionMNIST dataset, considering $n=100$ and $\gamma=0.3$ - ResNet-18.
+ 3. (Figure 3) Results on FashionMNIST dataset, considering $n=100$ and $\gamma=0.3$ - ResNet-18.
 
   
   * Top-0.1\% sparsification
@@ -111,7 +111,7 @@ Additional learning curves are included here. To be more specific, Figures \ref{
 ![Clipped with $\tau=5$](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.3_beta_0.1_ClipNorm_5.0.png)
 
 
- 4. Results on FashionMNIST dataset, considering $n=100$ and $\gamma=0.3$ - ResNet-18.
+ 4. (Figure 4) Results on FashionMNIST dataset, considering $n=100$ and $\gamma=0.3$ - ResNet-18.
 
   
   * Top-0.1\% sparsification
@@ -150,7 +150,7 @@ Additional learning curves are included here. To be more specific, Figures \ref{
 ![Clipped with $\tau=5$](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.3_beta_0.3_ClipNorm_5.0.png)
 
 
- 5. Results on FashionMNIST dataset, considering $n=100$ and $\gamma=0.5$ - ResNet-18.
+ 5. (Figure 5) Results on FashionMNIST dataset, considering $n=100$ and $\gamma=0.5$ - ResNet-18.
 
 
   * Top-1\% sparsification
@@ -177,7 +177,7 @@ Additional learning curves are included here. To be more specific, Figures \ref{
 ![Clipped with $\tau=5$](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.5_beta_0.1_ClipNorm_5.0.png)
 
 
- 6. Results on FashionMNIST dataset, considering $n=100$ and $\gamma=0.5$ - ResNet-18.
+ 6. (Figure 6) Results on FashionMNIST dataset, considering $n=100$ and $\gamma=0.5$ - ResNet-18.
 
   
   * Top-0.1\% sparsification
@@ -216,7 +216,7 @@ Additional learning curves are included here. To be more specific, Figures \ref{
 ![Clipped with $\tau=5$](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.5_beta_0.3_ClipNorm_5.0.png)
 
 
- 7. Results on FashionMNIST dataset, considering $n=100$ and $\gamma=0.7$ - ResNet-18.
+ 7. (Figure 7) Results on FashionMNIST dataset, considering $n=100$ and $\gamma=0.7$ - ResNet-18.
 
   
   * Top-0.1\% sparsification
@@ -255,7 +255,7 @@ Additional learning curves are included here. To be more specific, Figures \ref{
 ![Clipped with $\tau=5$](/FashionMNISTRunPy/FashionMNIST_ResNet18_Plots_Paper_WOT/FashionMNIST_A_ResNet18_penalty_0.0_e_300_N_100_SGDM_lr_0.7_beta_0.1_ClipNorm_5.0.png)
 
 
- 8. Results on FashionMNIST dataset, considering $n=100$ and $\gamma=0.7$ - ResNet-18.
+ 8. (Figure 8) Results on FashionMNIST dataset, considering $n=100$ and $\gamma=0.7$ - ResNet-18.
 
   
   * Top-0.1\% sparsification
