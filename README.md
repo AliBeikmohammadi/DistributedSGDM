@@ -1,6 +1,6 @@
 # DistributedSGDM
 Implementation of **DistributedSGDM**, as presented in:
-* Distributed Momentum Methods Under Biased Gradients Estimation. Submitted to the IEEE Transactions on Signal Processing.
+* Distributed Momentum Methods Under Biased Gradients Estimation. Submitted to the IEEE Transactions on Control of Network Systems.
 
 
 # Additional Numerical Evaluations on Deep Neural Networks
@@ -428,9 +428,9 @@ optional arguments:
 
 
 # Citation
-* Submitted to the IEEE Transactions on Signal Processing.
+* Submitted to the IEEE Transactions on Control of Network Systems.
 
-Please cite the accompanied paper, if you find this useful:
+Please cite the accompanied paper if you find this useful:
 ```
 To be completed
 ```
